@@ -1,6 +1,6 @@
 tags:
   - name: Text Processing
-get:
+post:
   description: Teks yang akan diproses
 parameters:
   - name: text
